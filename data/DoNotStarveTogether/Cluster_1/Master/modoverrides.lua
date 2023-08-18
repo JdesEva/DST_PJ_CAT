@@ -296,7 +296,7 @@ return {
     },
     enabled=false
   },
-  ["workshop-2582670245"]={ configuration_options={  }, enabled=true },
+  ["workshop-3014076942"]={ configuration_options={  }, enabled=true },
   ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-378160973"]={
