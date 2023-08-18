@@ -1,0 +1,13 @@
+{
+  "name": "dst-pj",
+  "version": "1.0.0",
+  "repository": "git@github.com:JdesEva/dst-pj.git",
+  "author": "jdeseva",
+  "license": "MIT",
+  "description": "胖叽妙妙屋存档",
+  "private": true,
+  "scripts": {
+    "build": "docker-compose -f ./docker-build.yml build",
+    "push": "docker-compose -f ./docker-build.yml push"
+  }
+}

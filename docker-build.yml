@@ -1,0 +1,7 @@
+version: '3.5'
+services:
+  dst-server:
+     image: jdeseva/dst_dst-server:${DST_TAG-latest}
+     build:
+      context: .
+      dockerfile: Dockerfile
